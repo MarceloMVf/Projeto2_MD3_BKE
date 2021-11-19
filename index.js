@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const mongoose = require("mongoose"); // completar 
+// const mongoose = require("mongoose"); // completar 
 require('dotenv').config();
 const Conn = require("./model/conn/index");
 
